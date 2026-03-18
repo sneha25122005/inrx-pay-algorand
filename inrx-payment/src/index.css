@@ -1,0 +1,9 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  background: #08080f;
+  color: white;
+  font-family: 'Courier New', monospace;
+  min-height: 100vh;
+}
+input:focus { outline: none; }
+button { border: none; }
