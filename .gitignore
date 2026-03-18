@@ -1,0 +1,22 @@
+# Node modules (200MB - don't upload!)
+inrx-payment/node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Vite build
+inrx-payment/dist/
+
+# Logs
+*.log
+npm-debug.log*
