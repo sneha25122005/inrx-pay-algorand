@@ -149,6 +149,11 @@ B.Tech CSE — Bharati Vidyapeeth (DU) College of Engineering, Pune
 AlgoBharat HackSeries 2026
 
 ---
+live deployed link --https://inrx-pay-algorand-steg-1d573i9ba-snehas-projects-c3c8777f.vercel.app/
+
+
+----
+MVP Link--https://drive.google.com/drive/folders/18WNtnuy75TT412JVZHx68piD_BZWHIG4
 
 ## 📄 License
 
